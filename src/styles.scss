@@ -1,1 +1,38 @@
 /* You can add global styles to this file, and also import other style files */
+$blue: #154289;
+$white: #E1E1E1;
+$grey: #4A4A4A;
+$red: #942D46;
+$lightGrey: #707070;
+$black: #232323;
+$purple: #6B3176;
+
+$arial: Arial;
+
+.textTitle {
+    font-family: $arial;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.textFormTitle {
+    font-family: $arial;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.textBody {
+    font-family: $arial;
+    font-size: 16px;
+}
+
+.textPlaceHolder {
+    font-family: $arial;
+    font-size: 15px;
+}
+
+.textTerms {
+    font-family: $arial;
+    font-size: 14px;
+}
+
